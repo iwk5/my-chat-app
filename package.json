@@ -1,0 +1,15 @@
+{
+  "name": "my-chat-app",
+  "version": "1.0.0",
+  "description": "Building chat app through node, socket and mongo db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waqas",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.6",
+    "socket.io": "^2.1.1"
+  }
+}
